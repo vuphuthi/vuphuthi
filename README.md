@@ -10,7 +10,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7175AA" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=0075C6" alt="TypeSrcipt logo" title="typesrcipt" height="25" /></span>
